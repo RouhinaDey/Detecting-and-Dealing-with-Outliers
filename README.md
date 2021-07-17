@@ -1,4 +1,4 @@
-# Detecting-and-Dealing-with-Outliers
+# Detecting-and-Dealing-with-Outliers-of-Heart-Attack-Dataset 
 
 Application of various techniques to detect and deal with outliers.
 
